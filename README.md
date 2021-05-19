@@ -1,4 +1,4 @@
-# MTE 220 Data Parser
+# MTE 203 Data Parser
 
 The code will strip your raw ISS data of any garbage (for example the comment garbage in the first 39 lines) and return a file in CSV format. 
 
