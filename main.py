@@ -1,4 +1,4 @@
-from parse import Parse
+from parse import Parse, ParseRemoveVelocity
 def main(): 
     Parse("ISS.OEM_J2K_EPH.txt")
 
